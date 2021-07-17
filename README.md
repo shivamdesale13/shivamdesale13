@@ -9,7 +9,7 @@ I'm Shivam and I am a third year Information Technology student in PCCOE , And I
 <a href= "www.linkedin.com/in/shivam-desale-02" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 </p>
 
-
+<br />
 
 
 ## :zap: My Github Stats:

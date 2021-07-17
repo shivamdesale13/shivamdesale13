@@ -1,7 +1,9 @@
 ### Heyy there 👋
-I'm Shivam from India, and I am a third year Information Technology student in PCCOE , And I enjoy learning new frameworks and languages.
+I'm Shivam and I am a third year Information Technology student in PCCOE , And I enjoy learning new frameworks and languages.
 
 🔭 I’m currently working on Django , react and many more....
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdesale13)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" />
@@ -16,7 +18,7 @@ I'm Shivam from India, and I am a third year Information Technology student in P
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdesale13)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

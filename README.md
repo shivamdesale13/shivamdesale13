@@ -4,8 +4,8 @@ I'm Shivam and I am a third year Information Technology student in PCCOE , And I
 - 🔭 I’m currently working on Web development..
 - 🌱 I’m currently learning  react and Node JS...
 - 👯 I’m looking to collaborate on open source colaborations ...
-- 📫 How to reach me: ..
-- <p align="left">
+- 📫 How to reach me:
+<p align="left">
 <a href= "www.linkedin.com/in/shivam-desale-02" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 </p>
 

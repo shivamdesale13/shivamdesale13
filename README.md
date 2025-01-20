@@ -10,7 +10,10 @@
 
 📫 How to reach me: 
 <p align="left">
-<a href= "https://www.linkedin.com/in/shivam-desale-02/" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>LinkedIn</a>
+<a href="https://www.linkedin.com/in/shivam-desale-02/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>LinkedIn
+</a>
+
 </p>
 
 <br />

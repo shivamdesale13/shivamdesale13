@@ -7,9 +7,10 @@
 👯 I’m looking to collaborate on open-source projects, especially those involving machine learning, data visualization, or web applications.
 
 ⚡ Fun fact: I once reduced operational costs by 30% and improved data retrieval speeds by 50% through innovative AWS integrations in a healthcare project!
-📫 How to reach me: LinkedIn
+
+📫 How to reach me: 
 <p align="left">
-<a href= "www.linkedin.com/in/shivam-desale-02" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href= "www.linkedin.com/in/shivam-desale-02" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>LinkedIn</a>
 </p>
 
 <br />

@@ -9,7 +9,8 @@
 ⚡ Fun fact: I once reduced operational costs by 30% and improved data retrieval speeds by 50% through innovative AWS integrations in a healthcare project!
 
 📫 How to reach me: 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shivam-desale-02/)
+<p>[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/shivam-desale-02/)
+</p>
 
 
 </p>

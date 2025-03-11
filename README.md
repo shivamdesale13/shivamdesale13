@@ -13,7 +13,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> LinkedIn
 </a></p>
 <br />
-<p><a href="https://shivamdesale13.github.io/portfolio_24/" target="_blank" rel="noopener noreferrer">
+<p><a href="https://shivamdesale13.github.io/Portfolio_25/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> PortFolio
 </a></p>
 
